@@ -3,7 +3,7 @@ email: "nikhil@uiworks.io"
 description: >- # this means to ignore newlines until "baseurl:"
   Mobile app App UI development at fixed price. 
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: uiworks.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+domain: uiworks.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://uiworks.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 twitter_username: uiworksio
 github_username:  UIWorksIO
